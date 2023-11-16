@@ -11,7 +11,7 @@ import java.util.Collections;
 @Configuration
 public class GoogleConfig {
 
-    private static final String CLIENT_ID = "86131853653-nus62a260i6knr4u2jc9lkprit9s7uur.apps.googleusercontent.com";
+    private static final String CLIENT_ID = "CLIENTID.com";
 
     @Bean
     public GoogleIdTokenVerifier googleIdTokenVerifier() {
